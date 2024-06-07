@@ -5,10 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavishkathushal" alt="kavishkathushal" /></a> </p>
 - 🖐 Hi I'm Kavishka Thushal
+
 - 👀 I’m interested in web develoment and and Mobile development
+  
 - 👨🏻‍💻 I’m currently reading my BSc(Hons) in Information Systems at Sabaragamuwa University of Sri Lanka
+  
 - 🤝 Eager to work on Android app development, web development, and other exciting projects. Let's create something amazing together!
+  
 - 👨‍💻 All of my projects are available at [www.kavishkathushalrasingolla.me](www.kavishkathushalrasingolla.me)
+  
 - 📫 How to reach me **thushalrasingolla99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
